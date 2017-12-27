@@ -1,0 +1,9 @@
+<suite name="TestSuite">
+    <test name="AutomationTest1">
+        <classes>
+            <class name="autotests.AdminLoginTest"/>
+            <class name="autotests.ClientLoginTest"/>
+            <class name="autotests.RegistrationTest"/>
+        </classes>
+    </test>
+</suite>

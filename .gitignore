@@ -1,0 +1,14 @@
+# folder logs
+logs/
+
+# folder output
+out/
+
+# target folder
+target/
+
+# intellij idea files
+.idea/
+
+# gradle folder
+.gradle/
